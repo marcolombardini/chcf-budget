@@ -3,7 +3,7 @@
  * Plugin Name: CHCF Budget
  * Plugin URI: https://github.com/marcolombardini/
  * Description: Only use if your are comfortable editing PHP files and are familar with your theme 
- * Author URI: http://chcfinc.org
+ * Author URI: https://www.chcfinc.org
  * Version: 0.1
  * Contributors: Marco Lombardini
  */
