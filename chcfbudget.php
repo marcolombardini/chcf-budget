@@ -17,4 +17,4 @@
 
 add_shortcode('text', 'text_shortcode');
  
-?>
+<?php
